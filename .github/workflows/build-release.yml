@@ -102,7 +102,7 @@ jobs:
           $dlls = @(
             "Landis.Library.UniversalCohorts-v2.dll",
             "Landis.Library.Parameters-v2.dll",
-            "Landis.Library.Metadata-v2.dll",
+            "Landis.Library.Metadata-v2.dll"
           )
 
           $target = "./src/lib"
