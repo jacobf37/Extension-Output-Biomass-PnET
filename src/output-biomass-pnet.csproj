@@ -48,8 +48,8 @@
     <Reference Include="Landis.Library.PnETCohorts-v2">
       <HintPath>lib\Landis.Library.PnETCohorts-v2.dll</HintPath>
     </Reference>
-    <Reference Include="Landis.Library.UniversalCohorts-v1">
-      <HintPath>lib\Landis.Library.UniversalCohorts-v1.dll</HintPath>
+    <Reference Include="Landis.Library.UniversalCohorts-v2">
+      <HintPath>lib\Landis.Library.UniversalCohorts-v2.dll</HintPath>
     </Reference>
   </ItemGroup>
 
