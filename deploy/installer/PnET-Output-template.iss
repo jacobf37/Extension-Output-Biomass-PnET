@@ -1,7 +1,7 @@
 ; LANDIS-II Extension infomation
 #define CoreRelease "LANDIS-II-V8"
 #define ExtensionName "Output-PnET"
-#define AppVersion "6.0.3"
+#define AppVersion "{VERSION}"
 #define AppPublisher "LANDIS-II Foundation"
 #define AppURL "http://www.landis-ii.org/"
 
@@ -35,6 +35,7 @@ DisableProgramGroupPage=yes
 LicenseFile=LANDIS-II_Binary_license.rtf
 OutputDir={#SourcePath}
 OutputBaseFilename={#CoreRelease} {#ExtensionName} {#AppVersion}-setup
+VersionInfoVersion={#AppVersion
 Compression=lzma
 SolidCompression=yes
 VersionInfoVersion={#AppVersion}
